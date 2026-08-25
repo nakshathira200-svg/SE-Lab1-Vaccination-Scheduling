@@ -1,1 +1,0 @@
-# SE-Lab1-Vaccination-Scheduling
